@@ -1,0 +1,67 @@
+body{
+    background-color: #f5f5f5;
+}
+.img{
+    background-image: url('../image/intro.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.logo{
+    color: #ffffff;
+}
+
+.navbar,  .container-bg, a  {
+    background-color: transparent !important;
+    color: #ffffff !important;
+}
+.jumbotron{
+    padding: 10rem 2rem;
+    background-color: transparent ;
+    color: #ffffff;
+}
+.jumbotron h1 {
+    font-weight: 600;
+}
+#banner{
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.pg1{
+    width: 80%; 
+    bottom: 30PX;
+}
+.img1 {
+    background-image: url('../counters-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 60vh;
+}
+.img2{
+    background-image: url('../overlay-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+}
+.img3{
+    background-image: url('../overlay-jpg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1090px;
+}
+
+.class {
+    padding-top: 196px;
+    color: #ffffff;
+}
+#footer-top .color{
+    background-color: #ffffff;
+}
+.pclass{
+    color: #ffffff;
+    padding-top: 193px;
+}
+#services{
+    background-color: #ffffff;
+
+}
